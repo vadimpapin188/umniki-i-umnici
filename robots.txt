@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vadimpapin188.github.io/umniki-i-umnici/sitemap.xml
